@@ -6,37 +6,37 @@ permalink: /coursework/
 
 {% include embedhighlight.html%}
 
-## At Cornell
-CS 6820: Analysis of Algorithms (Prof. Robert Kleinberg)
+## At Northwestern
 
-CS 6815: Pseudorandomness and Combinatorial Constructions (Prof. Eshan Chattopadhyay)
 
-CRP 6860: Planning for Sustainable Transportation (Prof. Nicholas Klein)
+## At Stanford
+CEE 291: Solid Mechanics (Prof.Christian Linder)
 
-ORIE 6300: Mathematical Programming I (Prof. David Shmoys)
+CEE 281: Finite Elements & Mechanics (Prof. Ronaldo Borja)
 
-ORIE 6520: Applied Probability (Prof. Jamol Pender)
+CEE 292: Continuum Mechanics (Prof.Christian Linder)
 
-SYSEN 6000: Complex Systems (Lecture Series)
+CEE 294: Computational Poromechanics (Prof. Ronaldo Borja)
+
+ME 333 : Lagrangian Mechanics (Prof. Adrian Lew)
+
+CME 200: Linear Algebra with Application to Engineering Computations (Prof. G.Iaccarino)
+
+CME 204: Partial Differential Equations in Engineering (Prof. S.Lele)
+
+CME 207: Numerical Methods in Engineering (Dr.F.Witherden)
+
+CS106B: Programming Abstractions (K.Schwarz)
 
 ## At Illinois
 
-CEE 498: Sustainable Infrastructure Systems
+CEE 483: Soil Mechanics and Behavior (Prof. G. Mesri)
 
-CEE 491: Decision and Risk Analysis
+CEE 484: Applied Soil Mechanics (Prof. S.Olson)
 
-CEE 418: Public Transportation Systems
+CEE 480: Foundation Engineering and Design (Prof. T.Stark)
 
-CEE 416: Traffic Capacity Analysis
+CEE 470: Structural Analysis and Finite Elements (Prof. A.Duarte)
 
-CEE 310: Transportation Engineering
+CEE 472: Structural Dynamics I (Prof. B.Spencer)
 
-CS 498: Social and Information Networks
-
-CS 482: Simulation
-
-CS 412: Data Mining
-
-CS 225: Data Structures
-
-ECE 486: Control Systems
