@@ -12,10 +12,7 @@ My research interests lie in the intersection of geomechanics, engineering mecha
 
 ## Papers
 
-### 
 <a href=""> </a>.
-
-### 
 
 ## Diary
 
