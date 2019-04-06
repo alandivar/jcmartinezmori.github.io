@@ -9,9 +9,9 @@ description: > # this means to ignore newlines until "baseurl:"
   que toda la vida es sueño,
   y los sueños, sueños son." -- Pedro Calderón de la Barca (1635)
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jcmartinezmori.github.io" # the base hostname & protocol for your site
-twitter_username: jcmartinezmori
-github_username:  jcmartinezmori
+url: "http://alandivar.github.io" # the base hostname & protocol for your site
+twitter_username: andonylandivar
+github_username:  alandivar
 
 # Build settings
 markdown: kramdown
