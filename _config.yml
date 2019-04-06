@@ -1,13 +1,12 @@
 # Site settings
 title: Andony Landivar Macias
-cv: Curriculum vitae
+cv: 
 email: alandivar@u.northwestern.edu
 description: > # this means to ignore newlines until "baseurl:"
-  "¿Qué es la vida? Una ilusión, 
-  una sombra, una ficción,
-  y el mayor bien es pequeño:
-  que toda la vida es sueño,
-  y los sueños, sueños son." -- Pedro Calderón de la Barca (1635)
+  "Learn from yesterday,
+  live for today, hope for tomorrow.
+  The important thing is not to stop questioning." 
+  -- Albert Einstein 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://alandivar.github.io" # the base hostname & protocol for your site
 twitter_username: andonylandivar
