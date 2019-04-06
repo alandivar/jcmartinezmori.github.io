@@ -4,8 +4,6 @@ title: Piano
 permalink: /piano/
 ---
 
-{% include image.html url="/images/tkd_pascua.jpg" caption="In Easter Island." width=300 align="center" %}
+{% include image.html url="/images/pianoAL.jpg" caption="Playing a beautiful Samick Grand Piano" width=300 align="center" %}
 
-I received my 1st Dan Black Belt (Kukkiwon No. 05431493) from Walter Romero in Guayaquil, Ecuador. I had a short-lived competition attempt in 2017, when I participated with the Cornell Sport Taekwondo team at the ECTC Brown University Tournament (I was totally destroyed in my fight). I still train with the Cornell Sport Taekwondo team, and may consider going to a tournament again later on.  
-
-{% include image.html url="/images/tkd_brown.png" caption="Me (in blue) competing at Brown University." width=300 align="center" %}
+I have played the piano since I was 5 years old. I started learning in Guayquil,Ecuador and had as instructor Ms. Liuba Gagliardo who is a profesional piano and singing teacher with a lot of expirience. I dominate music theory and have a lot of experience in stage such as performances in main theaters of Guayaquil such as the Center of Arts theater and the Crystal Palace. I have had an arduous training process and have an extreme passion for piano performing. Since my university studies is the main activity I am focusing in, I don't practice as much as I used to and now consider the piano as a relaxing tool.
