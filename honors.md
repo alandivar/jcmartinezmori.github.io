@@ -6,18 +6,15 @@ permalink: /honors/
 
 {% include embedhighlight.html%}
 
-Dwight David Eisenhower Transportation Fellowship (FHWA), Fall 2018 - Summer 2019
+Northwestern University Graduate School Fellowship, Fall 2019 - Summer 2020
 
-Dwight David Eisenhower Transportation Fellowship (FHWA), Fall 2017 - Summer 2018
+Stanford University Department of Civil Engineering Fellowship, Fall 2018 - Spring 2019
 
-Graduate Fellowship (Systems at Cornell), Fall 2017
+Stanford University Nancy Grant Chamberlein, Fall 2017 - Spring 2018
 
-Universidades de Excelencia Full-Ride Scholarship (Govt. of Ecuador), Fall 2013 - Spring 2017
+Ecuadorian Academic Excellence Scholarship (Govt. of Ecuador), Fall 2013 - Spring 2017
 
-Melih T. Dural Undergraduate Research Prize (CEE at Illinois), Spring 2017
+ICT/IDOT Student SUmmer Research Program Grant, Summer 2015
 
-Illinois Association of County Engineers Scholarship Award (CEE at Illinois), Spring 2016
+UIUC Geotechnical Engineering Excellence Scholarship (CEE at Illinois), Spring 2016
 
-Summer Student Research Program Grant (ICT/IDOT), Summer 2015
-
-Grant W. Shaw Memorial Scholarship (CEE at Illinois), Spring 2015
