@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Taekwondo
-permalink: /taekwondo/
+title: Piano
+permalink: /piano/
 ---
 
 {% include image.html url="/images/tkd_pascua.jpg" caption="In Easter Island." width=300 align="center" %}
