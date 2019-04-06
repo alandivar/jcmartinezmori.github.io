@@ -5,7 +5,7 @@
     border-top: 0px solid $grey-color-dark;
 	border-bottom: 4px solid $umass-grey;
     min-height: 56px;
-    background: #4E2A84;
+    background: #4e2a84;
     // Positioning context for the mobile navigation icon
     position: relative;
 
@@ -87,7 +87,7 @@ color: #522d80;
 }
 
 .site-nav .sub-menu a:hover {
-	color: #4E2A84;
+	color: $umass-red;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
@@ -157,7 +157,7 @@ z-index:999;
 
     .page-link {
         color: #ffffff;
-    background: $umass-red;
+    background: #4e2a84;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
